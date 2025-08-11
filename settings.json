@@ -1,0 +1,11 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.cursorBlinking": "expand" ,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 5000,
+    "workbench.editor.enablePreview": true,
+    "vscode-pets.theme": "forest",
+    "vscode-pets.petType": "snake",
+    "go.toolsManagement.autoUpdate": true,
+    "git.ignoreMissingGitWarning": true
+}
