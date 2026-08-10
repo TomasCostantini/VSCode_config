@@ -7,5 +7,19 @@
     "vscode-pets.theme": "forest",
     "vscode-pets.petType": "snake",
     "go.toolsManagement.autoUpdate": true,
-    "git.ignoreMissingGitWarning": true
+    "git.ignoreMissingGitWarning": true,
+    "workbench.colorTheme": "SynthWave '84",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+    "[go]": {
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.organizeImports": "never",
+        "source.fixAll": "never"
+    }
+}
 }
